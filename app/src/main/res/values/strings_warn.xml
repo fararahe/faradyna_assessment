@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="warn_username_cannot_be_empty">Username cannot be empty</string>
+    <string name="warn_must_be_at_least_3_characters">Must be at least 3 characters</string>
+    <string name="warn_cannot_contain_spaces">Cannot contain spaces</string>
+    <string name="warn_password_cannot_be_empty">Password cannot be empty</string>
+    <string name="warn_must_be_at_least_6_characters">Must be at least 6 characters</string>
+    <string name="warn_must_contain_at_least_one_letter_and_one_number">Must contain at least one letter and one number</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_notification_permission">Notification Permission</string>
+    <string name="label_notification_permission_detail">Please grant notification permission to access all features.</string>
+    <string name="label_notification_permission_permanently_denied">Notification permission has been permanently denied. Please enable it manually in settings to use all features.</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Faradyna Assessment</string>
+    <string name="label_setting">Settings</string>
+    <string name="label_later">Remind Me Later</string>
+    <string name="label_login">Login</string>
+    <string name="label_logout">Log Out</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_home">Home</string>
+    <string name="label_all">All</string>
+    <string name="label_go_back">Go Back</string>
+    <string name="label_product_detail">Product Detail</string>
+    <string name="label_add_to_cart">Add to Cart</string>
+    <string name="labele_success_add_to_cart">Success add to cart</string>
+    <string name="label_checkout">Checkout</string>
+    <string name="label_checkout_detail">Checkout Detail</string>
+    <string name="label_your_cart_is_empty">Your cart is empty</string>
+    <string name="label_no_products_found">No products found</string>
+</resources>

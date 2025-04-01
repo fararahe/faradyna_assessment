@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_no_internet_error_message">"No internet connection. Please check your connection and try again."</string>
+    <string name="label_server_error_message">"Oops! Something went wrong on our end. Please try again later."</string>
+    <string name="label_parsing_error_message">"We're having trouble processing the data. Please refresh and try again."</string>
+    <string name="label_unexpected_error_message">"An unexpected error occurred. Please try again."</string>
+    <string name="error_network">Network Error</string>
+    <string name="error_network_desc">There was a problem connecting, make sure\nyour network online and pull to refresh.</string>
+    <string name="error_invalid_product_id">Invalid product ID</string>
+</resources>
